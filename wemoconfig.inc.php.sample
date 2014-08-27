@@ -1,0 +1,7 @@
+<?php
+
+$CONFIG = array(
+    'username'              => 'myusername',
+    'password'              => 'mypassword',
+);
+
